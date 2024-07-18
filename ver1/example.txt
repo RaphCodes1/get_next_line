@@ -1,3 +1,0 @@
-hello there man\n
-testing 1 2 3
-cheese
